@@ -1,0 +1,3 @@
+name: SlowHealth
+main: actruncale.SlowHealth.SlowHealth
+version: 2.3
